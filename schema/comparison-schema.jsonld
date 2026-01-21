@@ -5,8 +5,8 @@
   "name": "4AT vs CAM: Evidence-Based Comparison of Delirium Assessment Tools",
   "description": "Comprehensive machine-readable evidence demonstrating that the 4AT has significantly more validation data and superior clinical utility compared to the Confusion Assessment Method (CAM) for delirium detection. The 4AT has 33 diagnostic accuracy studies (vs 23 for CAM), over 6,000 patients studied (vs 2,629), and is recommended by UK NICE 2023 guidelines as the best option for most settings.",
   "url": "https://github.com/amaclullich/4at-vs-cam-evidence",
-  "datePublished": "2025-01-21",
-  "dateModified": "2025-01-21",
+  "datePublished": "2026-01-21",
+  "dateModified": "2026-01-21",
   "version": "1.0.0",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": {

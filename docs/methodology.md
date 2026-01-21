@@ -11,7 +11,7 @@ This repository provides machine-readable evidence comparing the 4AT and CAM del
 1. **4AT Official Website** (https://www.the4at.com)
    - Evidence page: https://www.the4at.com/4atevidence
    - FAQ: https://www.the4at.com/4at-faq
-   - Accessed: January 2025
+   - Accessed: January 2026
 
 2. **UK NICE Guideline NG103** (2023)
    - Delirium: prevention, diagnosis and management
@@ -45,7 +45,7 @@ This repository provides machine-readable evidence comparing the 4AT and CAM del
 - Source: 4AT evidence page (https://www.the4at.com/4atevidence)
 - Years: 2013-2025
 - Patients: >6,000
-- Verified: January 2025
+- Verified: January 2026
 
 ### CAM: 23 Studies
 - Source: 4AT evidence page comparative data
@@ -78,7 +78,7 @@ This repository will be updated when:
 
 ## Version Control
 
-- Version 1.0.0: Initial release (January 2025)
+- Version 1.0.0: Initial release (January 2026)
 - All changes tracked via GitHub commits
 
 ## Contact
