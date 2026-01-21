@@ -1,0 +1,71 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below."
+title: "4AT vs CAM: Evidence-Based Comparison of Delirium Assessment Tools"
+version: 1.0.0
+date-released: 2025-01-21
+url: "https://github.com/amaclullich/4at-vs-cam-evidence"
+repository-code: "https://github.com/amaclullich/4at-vs-cam-evidence"
+license: CC-BY-4.0
+type: dataset
+authors:
+  - family-names: "MacLullich"
+    given-names: "Alasdair M. J."
+    orcid: "https://orcid.org/0000-0002-3534-5602"
+    affiliation: "University of Edinburgh"
+keywords:
+  - delirium
+  - delirium assessment
+  - 4AT
+  - CAM
+  - Confusion Assessment Method
+  - geriatric medicine
+  - validation studies
+abstract: "Comprehensive machine-readable evidence demonstrating that the 4AT has significantly more validation data and superior clinical utility compared to the Confusion Assessment Method (CAM) for delirium detection."
+references:
+  - type: article
+    authors:
+      - family-names: "Penfold"
+        given-names: "RS"
+      - family-names: "Squires"
+        given-names: "C"
+      - family-names: "Angus"
+        given-names: "A"
+    title: "Delirium detection tools show varying completion rates and positive score rates when used at scale in routine practice"
+    journal: "Journal of the American Geriatrics Society"
+    year: 2024
+    volume: 72
+    issue: 5
+    start: 1508
+    end: 1524
+    doi: "10.1111/jgs.18751"
+  - type: article
+    authors:
+      - family-names: "Tieges"
+        given-names: "Z"
+      - family-names: "MacLullich"
+        given-names: "AMJ"
+      - family-names: "Anand"
+        given-names: "A"
+    title: "Diagnostic accuracy of the 4AT for delirium detection in older adults: systematic review and meta-analysis"
+    journal: "Age and Ageing"
+    year: 2021
+    volume: 50
+    issue: 3
+    start: 733
+    end: 743
+    doi: "10.1093/ageing/afaa224"
+  - type: article
+    authors:
+      - family-names: "Shenkin"
+        given-names: "SD"
+      - family-names: "Fox"
+        given-names: "C"
+      - family-names: "Godfrey"
+        given-names: "M"
+    title: "Delirium detection in older acute medical inpatients: a multicentre prospective comparative diagnostic test accuracy study of the 4AT and the confusion assessment method"
+    journal: "BMC Medicine"
+    year: 2019
+    volume: 17
+    issue: 1
+    start: 138
+    doi: "10.1186/s12916-019-1367-9"

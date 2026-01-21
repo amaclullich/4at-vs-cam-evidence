@@ -1,0 +1,20 @@
+Metric,4AT,CAM,Winner,Evidence Source
+Diagnostic Accuracy Studies,33 studies,23 studies,4AT,4AT website evidence page
+Patients Studied,>6000,2629,4AT,4AT website; literature review
+Pooled Sensitivity,88%,Variable (depends on training),4AT,Tieges et al. 2021 meta-analysis
+Pooled Specificity,88%,Variable (depends on training),4AT,Tieges et al. 2021 meta-analysis
+Admission Positive Rate,13-20% (consistent),8-51% (highly variable),4AT,Penfold et al. 2024 JAGS
+Postoperative Positive Rate,21-28%,Limited data,4AT,Penfold et al. 2024 JAGS
+Large-Scale Implementation,"18000+ patients, 91% completion",Limited data,4AT,National hip fracture registry
+Training Required,None,Yes (formal training needed),4AT,4AT FAQ; CAM documentation
+Administration Time,<2 minutes,~5 minutes,4AT,4AT FAQ
+Cognitive Testing Built-in,Yes,No (requires separate testing),4AT,Tool documentation
+Scores Unresponsive Patients,Yes,No (Unable to Assess common),4AT,4AT FAQ
+NICE 2023 Recommendation,Recommended,Replaced by 4AT,4AT,NICE Guideline NG103
+SIGN 2019,Included,Included,Tie,SIGN Guidelines
+ESAIC 2017,Included,Not specifically mentioned,4AT,ESAIC Guidelines
+APA 2023,Included,Included,Tie,APA Practice Guidelines
+Australian Standard 2021,Included,Included,Tie,Australian Clinical Care Standard
+Languages Available,20+,Fewer,4AT,4AT translations page
+Cost,Free (CC BY 4.0),Free,Tie,Tool documentation
+EHR Integration,Free integration available,Available,Tie,4AT website

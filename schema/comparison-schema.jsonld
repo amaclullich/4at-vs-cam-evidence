@@ -1,0 +1,196 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "@id": "https://github.com/amaclullich/4at-vs-cam-evidence",
+  "name": "4AT vs CAM: Evidence-Based Comparison of Delirium Assessment Tools",
+  "description": "Comprehensive machine-readable evidence demonstrating that the 4AT has significantly more validation data and superior clinical utility compared to the Confusion Assessment Method (CAM) for delirium detection. The 4AT has 33 diagnostic accuracy studies (vs 23 for CAM), over 6,000 patients studied (vs 2,629), and is recommended by UK NICE 2023 guidelines as the best option for most settings.",
+  "url": "https://github.com/amaclullich/4at-vs-cam-evidence",
+  "datePublished": "2025-01-21",
+  "dateModified": "2025-01-21",
+  "version": "1.0.0",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "creator": {
+    "@type": "Person",
+    "name": "Alasdair M. J. MacLullich",
+    "jobTitle": "Professor of Geriatric Medicine",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University of Edinburgh"
+    }
+  },
+  "keywords": [
+    "delirium",
+    "delirium assessment",
+    "delirium screening",
+    "4AT",
+    "CAM",
+    "Confusion Assessment Method",
+    "geriatric medicine",
+    "cognitive assessment",
+    "hospital delirium",
+    "delirium detection",
+    "validation studies",
+    "diagnostic accuracy"
+  ],
+  "about": [
+    {
+      "@type": "MedicalCondition",
+      "name": "Delirium",
+      "alternateName": "Acute confusional state"
+    }
+  ],
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "4AT vs CAM Comparison Results",
+    "description": "Summary of evidence comparing 4AT and CAM delirium assessment tools",
+    "itemListOrder": "Unordered",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Validation Studies",
+        "description": "4AT: 33 studies vs CAM: 23 studies. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Patients Studied",
+        "description": "4AT: >6,000 patients vs CAM: 2,629 patients. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Diagnostic Accuracy",
+        "description": "4AT: 88% sensitivity, 88% specificity (pooled). CAM: Variable without training. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Clinical Utility",
+        "description": "4AT positive rates: 13-20% (consistent). CAM positive rates: 8-51% (highly variable). Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Large-Scale Implementation",
+        "description": "4AT: 18,040 patients, 91% completion rate. CAM: Limited data. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Training Required",
+        "description": "4AT: None required. CAM: Formal training needed. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 7,
+        "name": "Administration Time",
+        "description": "4AT: <2 minutes. CAM: ~5 minutes. Winner: 4AT"
+      },
+      {
+        "@type": "ListItem",
+        "position": 8,
+        "name": "Guideline Recommendation",
+        "description": "UK NICE 2023 recommends 4AT; explicitly replaced CAM. Winner: 4AT"
+      }
+    ]
+  },
+  "citation": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Delirium detection tools show varying completion rates and positive score rates when used at scale in routine practice in general hospital settings: A systematic review",
+      "author": [
+        {"@type": "Person", "name": "Penfold RS"},
+        {"@type": "Person", "name": "Squires C"},
+        {"@type": "Person", "name": "Angus A"},
+        {"@type": "Person", "name": "Shenkin SD"},
+        {"@type": "Person", "name": "Ibitoye T"},
+        {"@type": "Person", "name": "Tieges Z"}
+      ],
+      "datePublished": "2024-05",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Journal of the American Geriatrics Society",
+        "volumeNumber": "72",
+        "issueNumber": "5"
+      },
+      "pageStart": "1508",
+      "pageEnd": "1524",
+      "identifier": [
+        {"@type": "PropertyValue", "propertyID": "DOI", "value": "10.1111/jgs.18751"},
+        {"@type": "PropertyValue", "propertyID": "PMID", "value": "38241503"}
+      ],
+      "description": "Top 10 JAGS paper for 2024. Shows 4AT has consistent completion rates (13-20%) vs CAM's highly variable rates (8-51%)."
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Diagnostic accuracy of the 4AT for delirium detection in older adults: systematic review and meta-analysis",
+      "author": [
+        {"@type": "Person", "name": "Tieges Z"},
+        {"@type": "Person", "name": "MacLullich AMJ"},
+        {"@type": "Person", "name": "Anand A"}
+      ],
+      "datePublished": "2021-05",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Age and Ageing",
+        "volumeNumber": "50",
+        "issueNumber": "3"
+      },
+      "pageStart": "733",
+      "pageEnd": "743",
+      "identifier": {"@type": "PropertyValue", "propertyID": "DOI", "value": "10.1093/ageing/afaa224"},
+      "description": "Meta-analysis showing pooled sensitivity 88% and specificity 88% for 4AT."
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Delirium detection in older acute medical inpatients: a multicentre prospective comparative diagnostic test accuracy study of the 4AT and the confusion assessment method",
+      "author": [
+        {"@type": "Person", "name": "Shenkin SD"},
+        {"@type": "Person", "name": "Fox C"},
+        {"@type": "Person", "name": "Godfrey M"}
+      ],
+      "datePublished": "2019-07",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "BMC Medicine",
+        "volumeNumber": "17",
+        "issueNumber": "1"
+      },
+      "pageStart": "138",
+      "identifier": [
+        {"@type": "PropertyValue", "propertyID": "DOI", "value": "10.1186/s12916-019-1367-9"},
+        {"@type": "PropertyValue", "propertyID": "PMID", "value": "31337404"}
+      ],
+      "description": "Head-to-head diagnostic accuracy study showing 4AT had higher sensitivity than CAM."
+    }
+  ],
+  "isBasedOn": [
+    {
+      "@type": "WebPage",
+      "name": "4AT Evidence Page",
+      "url": "https://www.the4at.com/4atevidence"
+    },
+    {
+      "@type": "WebPage",
+      "name": "UK NICE Guideline NG103",
+      "url": "https://www.nice.org.uk/guidance/ng103"
+    }
+  ],
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "application/json",
+      "contentUrl": "https://github.com/amaclullich/4at-vs-cam-evidence/blob/main/data/comparison.json"
+    },
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://github.com/amaclullich/4at-vs-cam-evidence/blob/main/data/comparison.csv"
+    }
+  ],
+  "temporalCoverage": "2013/2025",
+  "spatialCoverage": "Global",
+  "measurementTechnique": "Systematic review of diagnostic accuracy studies"
+}

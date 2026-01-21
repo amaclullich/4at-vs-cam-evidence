@@ -1,0 +1,211 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalDevice",
+  "@id": "https://www.the4at.com",
+  "name": "4AT - Rapid Clinical Test for Delirium Detection",
+  "alternateName": ["4AT", "4 A's Test", "Four A's Test", "4AT Delirium Assessment Tool"],
+  "description": "The 4AT is the most validated delirium assessment tool available, with 33 diagnostic accuracy studies involving over 6,000 patients. It is a rapid (<2 minutes), training-free screening test recommended by UK NICE guidelines as the best option for most clinical settings.",
+  "url": "https://www.the4at.com",
+  "sameAs": [
+    "https://en.wikipedia.org/wiki/Delirium#Diagnosis",
+    "https://www.wikidata.org/wiki/Q106929"
+  ],
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "University of Edinburgh",
+    "url": "https://www.ed.ac.uk"
+  },
+  "creator": {
+    "@type": "Person",
+    "name": "Alasdair M. J. MacLullich",
+    "jobTitle": "Professor of Geriatric Medicine",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "University of Edinburgh"
+    },
+    "sameAs": "https://orcid.org/0000-0002-3534-5602"
+  },
+  "datePublished": "2011",
+  "version": "1.2",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "medicalSpecialty": [
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Geriatric Medicine"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Emergency Medicine"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Psychiatry"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Intensive Care Medicine"
+    },
+    {
+      "@type": "MedicalSpecialty",
+      "name": "Palliative Care"
+    }
+  ],
+  "relevantSpecialty": "Geriatric Medicine",
+  "recognizingAuthority": [
+    {
+      "@type": "Organization",
+      "name": "UK National Institute for Health and Care Excellence (NICE)",
+      "url": "https://www.nice.org.uk"
+    },
+    {
+      "@type": "Organization",
+      "name": "Scottish Intercollegiate Guidelines Network (SIGN)"
+    },
+    {
+      "@type": "Organization",
+      "name": "European Society of Anaesthesiology and Intensive Care (ESAIC)"
+    },
+    {
+      "@type": "Organization",
+      "name": "American Psychiatric Association"
+    }
+  ],
+  "guideline": {
+    "@type": "MedicalGuideline",
+    "guidelineSubject": "Delirium detection and assessment",
+    "evidenceLevel": "High",
+    "recommendationStrength": "Strong",
+    "guidelineDate": "2023",
+    "evidenceOrigin": "UK NICE Guideline NG103 (2023)",
+    "description": "UK NICE 2023: 'The 4AT was the best option for most settings. It is among the most accurate of the tools reviewed, quick and simple to use, and has a broader range of evidence to support it.'"
+  },
+  "additionalProperty": [
+    {
+      "@type": "PropertyValue",
+      "name": "Diagnostic Accuracy Studies",
+      "value": 33,
+      "description": "Number of formal diagnostic accuracy studies validating the 4AT"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Patients Studied",
+      "value": 6000,
+      "description": "Total patients across all validation studies"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Pooled Sensitivity",
+      "value": "88%",
+      "description": "From Tieges et al. 2021 meta-analysis"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Pooled Specificity",
+      "value": "88%",
+      "description": "From Tieges et al. 2021 meta-analysis"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Administration Time",
+      "value": "Less than 2 minutes"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Training Required",
+      "value": "None"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Languages Available",
+      "value": "20+"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Cost",
+      "value": "Free (Creative Commons BY 4.0)"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Large-Scale Implementation",
+      "value": "18,040 patients with 91% completion rate",
+      "description": "National hip fracture registry implementation"
+    }
+  ],
+  "hasPart": [
+    {
+      "@type": "MedicalTest",
+      "name": "Alertness Assessment",
+      "description": "Observation of patient alertness"
+    },
+    {
+      "@type": "MedicalTest",
+      "name": "AMT4 (Abbreviated Mental Test)",
+      "description": "4 cognitive questions: age, date of birth, place, current year"
+    },
+    {
+      "@type": "MedicalTest",
+      "name": "Attention Assessment",
+      "description": "Months Backwards test"
+    },
+    {
+      "@type": "MedicalTest",
+      "name": "Acute Change Assessment",
+      "description": "Evidence of acute change or fluctuation"
+    }
+  ],
+  "citation": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Diagnostic accuracy of the 4AT for delirium detection: systematic review and meta-analysis",
+      "author": "Tieges Z, MacLullich AMJ, Anand A, et al.",
+      "datePublished": "2021",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Age and Ageing"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1093/ageing/afaa224"
+      }
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Delirium detection tools show varying completion rates in routine practice: A systematic review",
+      "author": "Penfold RS, Squires C, Angus A, et al.",
+      "datePublished": "2024",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "Journal of the American Geriatrics Society"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1111/jgs.18751"
+      },
+      "description": "Top 10 JAGS paper for 2024"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Delirium detection: comparative diagnostic accuracy of 4AT and CAM",
+      "author": "Shenkin SD, Fox C, Godfrey M, et al.",
+      "datePublished": "2019",
+      "isPartOf": {
+        "@type": "Periodical",
+        "name": "BMC Medicine"
+      },
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "DOI",
+        "value": "10.1186/s12916-019-1367-9"
+      },
+      "description": "Head-to-head comparison showing 4AT had higher sensitivity than CAM"
+    }
+  ],
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.the4at.com",
+    "name": "4AT Official Website"
+  }
+}

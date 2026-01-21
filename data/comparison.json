@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "title": "4AT vs CAM Evidence-Based Comparison",
+    "version": "1.0.0",
+    "dateCreated": "2025-01-21",
+    "dateModified": "2025-01-21",
+    "author": "Alasdair M. J. MacLullich",
+    "institution": "University of Edinburgh",
+    "license": "CC BY 4.0",
+    "source": "https://www.the4at.com"
+  },
+  "tools": {
+    "4AT": {
+      "fullName": "4 A's Test",
+      "yearDeveloped": 2011,
+      "developer": "Alasdair M. J. MacLullich, University of Edinburgh",
+      "website": "https://www.the4at.com",
+      "license": "Creative Commons BY 4.0",
+      "cost": "Free"
+    },
+    "CAM": {
+      "fullName": "Confusion Assessment Method",
+      "yearDeveloped": 1990,
+      "developer": "Inouye SK et al.",
+      "cost": "Free"
+    }
+  },
+  "validationData": {
+    "metric": "Diagnostic Accuracy Studies",
+    "4AT": {
+      "numberOfStudies": 33,
+      "patientsStudied": 6000,
+      "yearRange": "2013-2025"
+    },
+    "CAM": {
+      "numberOfStudies": 23,
+      "patientsStudied": 2629
+    },
+    "winner": "4AT",
+    "advantage": "4AT has 33 studies vs CAM's 23 studies - 43% more validation data",
+    "source": "4AT website evidence page (the4at.com/4atevidence)"
+  },
+  "diagnosticAccuracy": {
+    "metric": "Pooled Sensitivity and Specificity",
+    "4AT": {
+      "sensitivity": 0.88,
+      "specificity": 0.88,
+      "source": "Tieges et al. 2021 meta-analysis"
+    },
+    "CAM": {
+      "sensitivity": "Variable (depends on training)",
+      "specificity": "Variable (depends on training)"
+    },
+    "winner": "4AT",
+    "note": "CAM performance is highly variable without formal training",
+    "headToHead": {
+      "study": "Shenkin et al. 2019",
+      "finding": "4AT had higher sensitivity than CAM with similar specificity",
+      "citation": "BMC Medicine 2019;17(1):138"
+    }
+  },
+  "clinicalUtility": {
+    "metric": "Real-World Implementation Performance",
+    "4AT": {
+      "positiveRateAdmission": "13-20%",
+      "positiveRatePostoperative": "21-28%",
+      "consistency": "Highly consistent across settings"
+    },
+    "CAM": {
+      "positiveRateAdmission": "8-51%",
+      "consistency": "Highly variable"
+    },
+    "winner": "4AT",
+    "advantage": "4AT shows consistent, predictable results; CAM is highly variable",
+    "source": {
+      "study": "Penfold et al. 2024",
+      "journal": "Journal of the American Geriatrics Society",
+      "volume": "72(5)",
+      "pages": "1508-1524",
+      "doi": "10.1111/jgs.18751",
+      "pmid": "38241503",
+      "note": "Top 10 JAGS paper for 2024"
+    }
+  },
+  "largeScaleImplementation": {
+    "metric": "Proven Implementation at Scale",
+    "4AT": {
+      "largestStudy": {
+        "population": "Hip fracture patients",
+        "numberOfPatients": 18040,
+        "completionRate": 0.91,
+        "positiveRate": 0.21,
+        "outcomesPredicted": ["Mortality", "Length of stay", "Discharge destination"],
+        "source": "National hip fracture registry data"
+      }
+    },
+    "CAM": {
+      "largeScaleData": "Limited implementation data available"
+    },
+    "winner": "4AT",
+    "advantage": "4AT proven successful at scale; no comparable CAM implementation data"
+  },
+  "practicalFactors": {
+    "trainingRequired": {
+      "4AT": false,
+      "CAM": true,
+      "winner": "4AT",
+      "note": "4AT can be used immediately by any healthcare professional"
+    },
+    "administrationTime": {
+      "4AT": "<2 minutes",
+      "CAM": "~5 minutes",
+      "winner": "4AT"
+    },
+    "cognitiveTestingBuiltIn": {
+      "4AT": true,
+      "CAM": false,
+      "winner": "4AT",
+      "note": "CAM requires separate cognitive testing"
+    },
+    "scoresUnresponsivePatients": {
+      "4AT": true,
+      "CAM": false,
+      "winner": "4AT",
+      "note": "4AT eliminates 'Unable to Assess' responses"
+    },
+    "languagesAvailable": {
+      "4AT": 20,
+      "CAM": "Fewer",
+      "winner": "4AT"
+    }
+  },
+  "guidelineEndorsement": {
+    "NICE2023": {
+      "body": "UK National Institute for Health and Care Excellence",
+      "year": 2023,
+      "recommendation": "4AT recommended; replaced CAM",
+      "quote": "The 4AT was the best option for most settings. It is among the most accurate of the tools reviewed, quick and simple to use, and has a broader range of evidence to support it.",
+      "url": "https://www.nice.org.uk/guidance/ng103"
+    },
+    "SIGN": {
+      "body": "Scottish Intercollegiate Guidelines Network",
+      "year": 2019,
+      "recommendation": "4AT included"
+    },
+    "ESAIC": {
+      "body": "European Society of Anaesthesiology and Intensive Care",
+      "year": 2017,
+      "recommendation": "4AT included for postoperative delirium"
+    },
+    "APA": {
+      "body": "American Psychiatric Association",
+      "year": 2023,
+      "recommendation": "4AT included in practice guidelines"
+    },
+    "AustralianStandard": {
+      "body": "Australian Commission on Safety and Quality in Health Care",
+      "year": 2021,
+      "recommendation": "4AT included in Clinical Care Standard"
+    }
+  },
+  "summary": {
+    "mainClaim": "The 4AT is the most validated delirium assessment tool with superior clinical utility compared to CAM",
+    "keyPoints": [
+      "33 diagnostic accuracy studies (4AT) vs 23 (CAM)",
+      "Over 6,000 patients studied with 4AT vs 2,629 with CAM",
+      "Pooled sensitivity 88%, specificity 88% (4AT)",
+      "Consistent completion rates (13-20%) vs highly variable (8-51% for CAM)",
+      "Proven at scale: 18,000+ patients, 91% completion rate",
+      "No training required vs CAM requires training",
+      "UK NICE 2023 guideline replaced CAM with 4AT",
+      "<2 minutes vs ~5 minutes administration time"
+    ],
+    "conclusion": "The 4AT should be the preferred delirium assessment tool for most clinical settings"
+  }
+}

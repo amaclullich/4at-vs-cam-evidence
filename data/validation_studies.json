@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "title": "4AT Diagnostic Accuracy Studies",
+    "description": "Complete list of 33 diagnostic accuracy studies validating the 4AT for delirium detection",
+    "totalStudies": 33,
+    "totalPatients": 6000,
+    "dateRange": "2013-2025",
+    "source": "https://www.the4at.com/4atevidence",
+    "lastUpdated": "2025-01-21"
+  },
+  "studies": [
+    {
+      "rank": 1,
+      "year": 2025,
+      "authors": "Lawson RA, Richardson SJ, Gerakios F, et al.",
+      "title": "Detecting delirium in Parkinson's disease: an evaluation of diagnostic accuracy of bedside tools",
+      "journal": "Age and Ageing",
+      "population": "Parkinson's disease patients",
+      "setting": "Specialty"
+    },
+    {
+      "rank": 2,
+      "year": 2025,
+      "authors": "McCartney H, Noble E, Thompson K, et al.",
+      "title": "Validation of the 4AT for assessing recovery from delirium in older hospital patients",
+      "journal": "Age and Ageing",
+      "population": "Older hospital patients",
+      "setting": "Hospital",
+      "focus": "Recovery from delirium"
+    },
+    {
+      "rank": 3,
+      "year": 2025,
+      "authors": "Lai YH, Lin CJ, Su IC, et al.",
+      "title": "Clinical Utility and Performance of the Traditional Chinese Version of the 4-As Test for Delirium due to Traumatic Brain Injury",
+      "journal": "Journal of Academic Consultation Liaison Psychiatry",
+      "population": "Traumatic brain injury patients",
+      "setting": "Hospital",
+      "language": "Traditional Chinese"
+    },
+    {
+      "rank": 4,
+      "year": 2024,
+      "authors": "Fabrizi D, Rebora P, Spedale V, et al.",
+      "title": "Diagnostic Accuracy of the Recognizing Acute Delirium as Part of Your Routine (RADAR) Scale for Delirium Assessment in Hospitalized Older Adults",
+      "journal": "Healthcare",
+      "population": "Hospitalized older adults",
+      "setting": "Hospital"
+    },
+    {
+      "rank": 5,
+      "year": 2024,
+      "authors": "Sim JK, Chung K, Chung CR, et al.",
+      "title": "Usefulness of the 4A's test for detecting delirium in critically ill patients: a multicenter prospective observation study",
+      "journal": "Internal and Emergency Medicine",
+      "population": "Critically ill patients",
+      "setting": "ICU"
+    },
+    {
+      "rank": 6,
+      "year": 2024,
+      "authors": "Arnold E, Finucane AM, Taylor S, et al.",
+      "title": "The 4AT, a rapid delirium detection tool for use in hospice inpatient units: Findings from a validation study",
+      "journal": "Palliative Medicine",
+      "population": "Hospice patients",
+      "setting": "Hospice"
+    },
+    {
+      "rank": 7,
+      "year": 2024,
+      "authors": "Soler-Sanchis A, Martinez-Arnau FM, Sanchez-Frutos J, et al.",
+      "title": "The 4AT scale for rapid detection of delirium in emergency department triage",
+      "journal": "Frontiers in Medicine",
+      "population": "Emergency department patients",
+      "setting": "Emergency Department"
+    },
+    {
+      "rank": 8,
+      "year": 2024,
+      "authors": "Morales-Puerto M, Ruiz-Diaz M, Garcia-Mayor S, et al.",
+      "title": "Spanish transcultural adaptation of the 4AT score for the evaluation of delirium in the emergency department",
+      "journal": "BMC Nursing",
+      "population": "Older emergency department patients",
+      "setting": "Emergency Department",
+      "language": "Spanish"
+    },
+    {
+      "rank": 9,
+      "year": 2023,
+      "authors": "Pouw MA, Calf AH, Georg RR, et al.",
+      "title": "Diagnostic accuracy of the Dutch version of the 4AT for delirium detection in a mixed patient population and setting",
+      "journal": "Aging Clinical and Experimental Research",
+      "population": "Mixed patient population",
+      "setting": "Mixed settings",
+      "language": "Dutch"
+    },
+    {
+      "rank": 10,
+      "year": 2023,
+      "authors": "Muzzana C, Mantovan F, Tappeiner W, et al.",
+      "title": "Interrater reliability and concurrent validity of 4AT for the detection of postoperative delirium",
+      "journal": "Pflege",
+      "population": "Postoperative patients",
+      "setting": "Surgical",
+      "language": "German"
+    },
+    {
+      "rank": 11,
+      "year": 2023,
+      "authors": "Delgado-Parada E, Morillo-Cuadrado D, Saiz-Ruiz J, et al.",
+      "title": "Diagnostic accuracy of the Spanish version of the 4AT scale (4AT-ES) for delirium screening in older inpatients",
+      "journal": "European Journal of Psychiatry",
+      "population": "Older inpatients",
+      "setting": "Hospital",
+      "language": "Spanish"
+    },
+    {
+      "rank": 12,
+      "year": 2022,
+      "authors": "Aldwikat RK, Manias E, Holmes A, et al.",
+      "title": "Validation of Two Screening Tools for Detecting Delirium in Older Patients in the Post-Anaesthetic Care Unit",
+      "journal": "International Journal of Environmental Research and Public Health",
+      "population": "Older post-anaesthetic patients",
+      "setting": "Post-Anaesthetic Care Unit"
+    },
+    {
+      "rank": 13,
+      "year": 2022,
+      "authors": "Hur HJ, Jang YN, Park HY, et al.",
+      "title": "A prospective study of remote delirium screening using the modified K-4AT for COVID-19 inpatients",
+      "journal": "Frontiers in Psychiatry",
+      "population": "COVID-19 inpatients",
+      "setting": "Hospital",
+      "language": "Korean"
+    },
+    {
+      "rank": 14,
+      "year": 2021,
+      "authors": "Hasegawa T, Seo T, Kubota Y, et al.",
+      "title": "Reliability and validity of the Japanese version of the 4A's Test for delirium screening in the elderly patient",
+      "journal": "Asian Journal of Psychiatry",
+      "population": "Elderly patients",
+      "setting": "Hospital",
+      "language": "Japanese"
+    },
+    {
+      "rank": 15,
+      "year": 2021,
+      "authors": "Johansson YA, Tsevis T, Nasic S, et al.",
+      "title": "Diagnostic accuracy and clinical applicability of the Swedish version of the 4AT assessment test for delirium detection",
+      "journal": "BMC Geriatrics",
+      "population": "Mixed patient population",
+      "setting": "Mixed settings",
+      "language": "Swedish"
+    },
+    {
+      "rank": 16,
+      "year": 2021,
+      "authors": "Evensen S, Hylen Ranhoff A, Lydersen S, et al.",
+      "title": "The delirium screening tool 4AT in routine clinical practice: prediction of mortality, sensitivity and specificity",
+      "journal": "European Geriatric Medicine",
+      "population": "Hospitalized patients",
+      "setting": "Hospital"
+    },
+    {
+      "rank": 17,
+      "year": 2021,
+      "authors": "Chang Y, Ragheb SM, Oravec N, et al.",
+      "title": "Diagnostic accuracy of the 4 A's Test delirium screening tool for the postoperative cardiac surgery ward",
+      "journal": "Journal of Thoracic and Cardiovascular Surgery",
+      "population": "Cardiac surgery patients",
+      "setting": "Cardiac Surgery Ward"
+    },
+    {
+      "rank": 18,
+      "year": 2021,
+      "authors": "Sepulveda E, Bermudez E, Gonzalez D, et al.",
+      "title": "Validation of the Delirium Diagnostic Tool-Provisional and comparison to the 4AT",
+      "journal": "General Hospital Psychiatry",
+      "population": "Skilled nursing facility residents",
+      "setting": "Skilled Nursing Facility"
+    },
+    {
+      "rank": 19,
+      "year": 2019,
+      "authors": "Shenkin SD, Fox C, Godfrey M, et al.",
+      "title": "Delirium detection in older acute medical inpatients: a multicentre prospective comparative diagnostic test accuracy study of the 4AT and the Confusion Assessment Method",
+      "journal": "BMC Medicine",
+      "doi": "10.1186/s12916-019-1367-9",
+      "pmid": "31337404",
+      "population": "Older acute medical inpatients",
+      "setting": "Hospital",
+      "type": "Head-to-head comparison with CAM",
+      "keyFinding": "4AT had higher sensitivity than CAM"
+    },
+    {
+      "rank": 20,
+      "year": 2019,
+      "authors": "Myrstad M, Watne LO, Johnsen NT, et al.",
+      "title": "Delirium screening in an acute geriatric ward by nurses using 4AT",
+      "journal": "European Geriatric Medicine",
+      "population": "Acute geriatric ward patients",
+      "setting": "Geriatric Ward"
+    },
+    {
+      "rank": 21,
+      "year": 2019,
+      "authors": "Saller T, MacLullich AMJ, Schafer ST, et al.",
+      "title": "Screening for delirium after surgery: validation of the 4AT in the post-anaesthesia care unit",
+      "journal": "Anaesthesia",
+      "population": "Postoperative patients",
+      "setting": "Post-Anaesthesia Care Unit"
+    },
+    {
+      "rank": 22,
+      "year": 2018,
+      "authors": "Gagne AJ, Voyer P, Boucher V, et al.",
+      "title": "Performance of the French version of the 4AT for screening the elderly for delirium in the emergency department",
+      "journal": "Canadian Journal of Emergency Medicine",
+      "population": "Elderly emergency department patients",
+      "setting": "Emergency Department",
+      "language": "French"
+    },
+    {
+      "rank": 23,
+      "year": 2018,
+      "authors": "O'Sullivan D, Brady N, Manning E, et al.",
+      "title": "Validation of the 6CIT and the 4AT for combined delirium and dementia screening in older emergency department patients",
+      "journal": "Age and Ageing",
+      "population": "Older emergency department patients",
+      "setting": "Emergency Department"
+    },
+    {
+      "rank": 24,
+      "year": 2018,
+      "authors": "Al-Jumayli et al.",
+      "title": "Use of the 4AT to detect delirium in older hospitalized cancer patients",
+      "population": "Hospitalized cancer patients",
+      "setting": "Oncology Ward"
+    },
+    {
+      "rank": 25,
+      "year": 2017,
+      "authors": "Infante et al.",
+      "title": "Delirium detection in acute stroke",
+      "population": "Acute stroke patients",
+      "setting": "Stroke Unit"
+    },
+    {
+      "rank": 26,
+      "year": 2017,
+      "authors": "De J et al.",
+      "title": "Validating the 4AT in a culturally diverse geriatric inpatient population",
+      "population": "Diverse geriatric inpatients",
+      "setting": "Hospital"
+    },
+    {
+      "rank": 27,
+      "year": 2016,
+      "authors": "Hendry et al.",
+      "title": "Evaluation of delirium screening tools in geriatric medical inpatients",
+      "population": "Geriatric medical inpatients",
+      "setting": "Hospital"
+    },
+    {
+      "rank": 28,
+      "year": 2016,
+      "authors": "Kazim et al.",
+      "title": "4AT nurse-administered screening in hospitalized elders",
+      "population": "Hospitalized older adults",
+      "setting": "Hospital"
+    },
+    {
+      "rank": 29,
+      "year": 2016,
+      "authors": "Kuladee S, Prachason T",
+      "title": "Development and validation of the Thai version of the 4AT",
+      "population": "Hospitalized elderly patients",
+      "setting": "Hospital",
+      "language": "Thai"
+    },
+    {
+      "rank": 30,
+      "year": 2016,
+      "authors": "Asadollahi et al.",
+      "title": "Iranian version of 4AT for rapid delirium screening",
+      "population": "Older adults",
+      "setting": "Community",
+      "language": "Iranian/Persian"
+    },
+    {
+      "rank": 31,
+      "year": 2015,
+      "authors": "Kutlubaev et al.",
+      "title": "Early diagnosis of delirium in elderly acute stroke patients",
+      "population": "Elderly stroke patients",
+      "setting": "Stroke Unit",
+      "language": "Russian"
+    },
+    {
+      "rank": 32,
+      "year": 2014,
+      "authors": "Bellelli G, Morandi A, Davis DHJ, et al.",
+      "title": "Validation of the 4AT, a new instrument for rapid delirium screening: a study in 234 hospitalised older people",
+      "journal": "Age and Ageing",
+      "doi": "10.1093/ageing/afv210",
+      "population": "Hospitalized older people",
+      "setting": "Hospital",
+      "type": "Original validation study"
+    },
+    {
+      "rank": 33,
+      "year": 2013,
+      "authors": "Lees R et al.",
+      "title": "Test accuracy of short screening tests for diagnosis of delirium or cognitive impairment in an acute stroke unit setting",
+      "population": "Acute stroke patients",
+      "setting": "Stroke Unit"
+    }
+  ],
+  "summary": {
+    "totalStudies": 33,
+    "patientsStudied": 6000,
+    "yearsSpanned": "2013-2025",
+    "metaAnalysis": {
+      "citation": "Tieges Z, et al. Age and Ageing 2021;50(3):733-743",
+      "pooledSensitivity": 0.88,
+      "pooledSpecificity": 0.88
+    },
+    "settings": [
+      "Hospital (general medical)",
+      "Emergency Department",
+      "ICU",
+      "Post-Anaesthetic Care Unit",
+      "Surgical Wards",
+      "Geriatric Wards",
+      "Hospice",
+      "Skilled Nursing Facilities",
+      "Community",
+      "Stroke Unit",
+      "Cardiac Surgery",
+      "Oncology"
+    ],
+    "populations": [
+      "Older adults (65+ years)",
+      "Acute medical inpatients",
+      "Surgical patients",
+      "Post-operative patients",
+      "Emergency department patients",
+      "ICU patients",
+      "Hospice patients",
+      "Cancer patients",
+      "Stroke patients",
+      "Hip fracture patients",
+      "Cardiac surgery patients",
+      "Parkinson's disease patients",
+      "Traumatic brain injury patients",
+      "COVID-19 patients"
+    ],
+    "languagesValidated": [
+      "English",
+      "Traditional Chinese",
+      "Dutch",
+      "French",
+      "German",
+      "Japanese",
+      "Spanish",
+      "Swedish",
+      "Thai",
+      "Iranian/Persian",
+      "Korean",
+      "Italian",
+      "Portuguese",
+      "Norwegian",
+      "Russian"
+    ]
+  },
+  "comparisonWithOtherTools": {
+    "note": "The 4AT has the largest validation evidence base of any delirium screening tool",
+    "comparison": {
+      "4AT": {
+        "studies": 33,
+        "patients": 6000
+      },
+      "CAM": {
+        "studies": 23,
+        "patients": 2629
+      },
+      "NuDESC": {
+        "studies": 13,
+        "patients": 3039
+      }
+    },
+    "source": "4AT website evidence page"
+  }
+}
